@@ -1,0 +1,22 @@
+{% extends 'master/dashmaster.html' %}
+{% block content %}
+{% load static %}
+
+<div class="main-content">
+    <div class="title">
+        Add Menu Items
+    </div>
+
+    <div class="menuform">
+       <div class="col-md-6">
+       <h4 style="color:red">Are you sure, you want to delete {{items}} ?</h4>
+           <form action="{% url 'deleteitems' items.title %}" method="POST">
+               {% csrf_token %}
+               <a class="btn btn-primary" href="{%url 'menuitems'%}">Cancel</a>
+               <input class="btn btn-danger" type="submit" name="Confirm">
+           </form>
+       </div>
+    </div>
+
+</div>
+{% endblock %}

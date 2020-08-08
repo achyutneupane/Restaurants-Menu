@@ -1,0 +1,102 @@
+{% extends 'master/master.html' %}
+{% block content %}
+{% load static %}
+<!-- MENU -->
+<section class="navbar custom-navbar navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon icon-bar"></span>
+                <span class="icon icon-bar"></span>
+                <span class="icon icon-bar"></span>
+            </button>
+
+            <!-- lOGO TEXT HERE -->
+            <a href="{% url 'home' %}" class="navbar-brand">Hungers <span>.</span> Cafe</a>
+        </div>
+        <!-- MENU LINKS -->
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-nav-first">
+                <li><a href="{% url 'home' %}#home" class="smoothScroll">Home</a></li>
+                <li><a href="{% url 'home' %}#about" class="smoothScroll">About</a></li>
+                <li><a href="{% url 'home' %}#team" class="smoothScroll">Chef</a></li>
+                <li><a href="{% url 'home' %}#menu" class="smoothScroll">Menu</a></li>
+                <li><a href="{% url 'home' %}#contact" class="smoothScroll">Contact</a></li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#">Call Now! <i class="fa fa-phone"></i> +977 9843450483 </a></li>
+                <a href="{% url 'home' %}#footer" class="section-btn">Reserve a table</a>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- HOME -->
+<section id="menu" style="background: pink">
+</section>
+
+<section id="menu">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <div class="section-title " data-wow-delay="0.1s">
+                    <h2>{{title}}</h2>
+                    <h4>Tea Time &amp; Dining</h4>
+                </div>
+            </div>
+            {% for menuitem in menuitems %}
+            <div class="col-md-3 col-sm-6">
+                <div class="menu-thumb">
+                    <div class="card">
+                        <a href="{{menuitem.image.url}}" class="image-popup" title="{{menuitem.title}}">
+                            <img src="{{menuitem.image.url}}" class="img-responsive" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title">{{menuitem.title}}</h5>
+                                <p>{{menuitem.main_menu}}</p>
+                                <div class="menu-price">
+                                    <span>${{menuitem.price}}</span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<hr>
+<section id="menu" style="background: pink">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <div class="section-title" data-wow-delay="0.1s">
+                    <h2>Enjoy More Food</h2>
+                </div>
+            </div>
+            {% for menu in menus %}
+             <div class="col-md-2">
+                <div class="menu-thumb">
+                    <div class="card">
+                        <a href="{% url 'menudetail' menu.name%}">
+                            <img src="" class="img-responsive" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title">{{menu.title}}</h5>
+                                <div class="menu-price">
+
+                                    <span></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</section>
+
+
+{% endblock %}

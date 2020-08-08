@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="317609a7-25bf-413d-9146-1e3082d6ebf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../devlopment/.idea/devlopment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/TweetME-master/.idea/TweetME-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/django-ecommerce-master/.idea/django-ecommerce-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/djangoclass/.idea/djangoclass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/merogift/.idea/merogift.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/merogift/store/.idea/store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/nepalistatusquotesold/nepalistatusquotes/.idea/nepalistatusquotes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/pract/.idea/pract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/resumeproject/resumeproject/.idea/resumeproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/sirproject1/.idea/sirproject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/store/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/store/.idea/store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/store/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/store/store/.idea/store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Old projects/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backup/sirproject/sirproject1/.idea/sirproject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/.idea/blogsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/account/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/account/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/account/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/account/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/account/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/account/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/css/mixins/_text-hide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/jquery.timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/open-iconic-bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/flaticon/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/flaticon/license/license.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/open-iconic/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/open-iconic/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/open-iconic/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/fonts/open-iconic/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/image_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/person_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/person_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/person_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/images/person_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/google-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/jquery.animateNumber.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/static/assets/js/scrollax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/templates/layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/templates/layout/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/templates/master/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/media/blog/6125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/css/mixins/_text-hide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/jquery.timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/open-iconic-bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/flaticon/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/flaticon/license/license.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/open-iconic/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/open-iconic/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/open-iconic/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/fonts/open-iconic/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/image_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/person_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/person_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/person_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/images/person_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/google-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/jquery.animateNumber.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/static/assets/js/scrollax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/templates/layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/templates/layout/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/templates/master/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blogsite/posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/0002_menuitems_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/0003_menuitems_price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/0004_remove_mainmenu_quotes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/0005_auto_20200807_1523.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/templates/pages/menulist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Chicken_Momos_Recipe_Delicious_Steamed_Chicken_Dumplings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Crispy-Chicken-Burger-with-Cabbage-Cucumber-Slaw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Double_Tender_crisps.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Double_Trouble_Burger_without_Bun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/crispy-fried-chicken-burger-50388014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestfulApi/myproject/.idea/myproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backup/nepaliquotes/.idea/nepaliquotes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce/.idea/ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fetch/.idea/fetch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapp/.idea/myapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/.idea/nepalistatusv2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/resetpassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/layout/footercopyright.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/layout/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/master/accountmaster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/quotes/write-article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/best-smartphones-2018-front-closeup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault_dw5IMAy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault_hRrD3cR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault_mYyrec4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/top-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/top-news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/master/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/pages/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_loading@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/slider_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/slider_prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/socials.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/status.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/li-scroller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/OpenSans-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/Oswald-Regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/Varela-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/add_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/addbanner_728x90_V1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/featured_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/featured_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/featured_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/news_thumbnail2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/news_thumbnail3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/photograph_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/photograph_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/photograph_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/post_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/post_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/single_post_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.fancybox.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.li-scroller.1.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.newsTicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/resume original.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/resume_builder/.idea/resume_builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume/.idea/resume.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/.idea/resume_builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/templates/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/templates/pages/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/templates/pages/resetpassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/general.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/static/assets/css/resumestyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/static/assets/js/formset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/form/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/form/testform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/footercopyright.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/master/accountmaster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/master/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/pages/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/resumes/resume1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todoapi/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog backup/meroblog mysql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog backup/meroblog sqllite.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/.idea/meroblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/.idea/meroblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/account/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/account/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/account/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/account/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/account/templates/accounts/signin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/account/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/account/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/general.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/css/mixins/_text-hide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/jquery.timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/open-iconic-bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/flaticon/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/flaticon/license/license.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/open-iconic/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/open-iconic/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/open-iconic/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/fonts/open-iconic/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/image_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/image_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/person_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/person_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/person_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/person_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/signin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/images/signup.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/google-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/jquery.animateNumber.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/static/assets/js/scrollax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/templates/layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/templates/layout/postheader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/templates/layout/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/templates/master/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/templates/master/postpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/templates/pages/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/templates/pages/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/media/blog/college_life.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/media/blog/file_handling_in_python.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/media/blog/python_django.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/media/news/20190116_115458.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/media/news/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/media/news/python_django.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/meroblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/meroblog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/meroblog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../meroblog/meroblog/meroblog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/.idea/nepaliquotes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/.idea/nepaliquotes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/templates/accounts/signin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/templates/accounts/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/accounts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/media/news/6125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/media/news/broken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/media/news/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/media/news/seo_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/media/news/seo_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/general.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/css/mixins/_text-hide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/jquery.timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/open-iconic-bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/flaticon/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/flaticon/license/license.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/open-iconic/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/open-iconic/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/open-iconic/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/fonts/open-iconic/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/achyut.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/image_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/image_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/person_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/person_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/person_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/person_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/react.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/signin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/signup.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/uploads/Birthday.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/uploads/Broken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/uploads/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/uploads/love.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/uploads/motivational.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/uploads/parallax_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/uploads/seo_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/images/uploads/seo_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/google-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/jquery.animateNumber.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/static/assets/js/scrollax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/layout/postheader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/layout/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/master/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/master/postpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/pages/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/pages/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/pages/quotes/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/pages/quotes/createblog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/pages/quotes/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/pages/quotes/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resume/resumee/static/assets/img/template/cv2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resume/resumee/static/assets/img/template/cv3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resume/resumee/static/assets/img/template/cv4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resume_builder/.idea/resume_builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../react/android/.idea/react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../resume/.idea/resume.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/resume_builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tutorial1/.idea/tutorial1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume/.idea/resume.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/.idea/resume.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume/dashboard/templates/pages/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/dashboard/templates/pages/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume/resumee/static/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/resumee/static/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume/resumee/templates/layout/dashboardheader.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/resumee/templates/layout/dashboardheader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume_builder/resume/templates/pages/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume_builder/resume/templates/pages/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tutorial1/tutorial1/readme" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tutorial1/tutorial1/readme" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="ProjectId" id="1fkjZjPgx4FDoINoIvoswRiFcHr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nepaliquotes" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="317609a7-25bf-413d-9146-1e3082d6ebf7" name="Default Changelist" comment="" />
+      <created>1596769041399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596769041399</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="64" key="FileChooserDialogImpl" timestamp="1596882041337">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="410" y="64" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1596882041337" />
+  </component>
+</project>

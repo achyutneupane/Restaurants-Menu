@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Resume Buider Dashboard</title>
+    <link rel="stylesheet" href="{% static 'assets/css/main.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/css/bootstrap.min.css' %}">
+</head>
+<body>
+<div class="header">
+    <div class="logo">
+        <i class="fa fa-tachometer"></i>
+        <span>Resume Builder</span>
+    </div>
+
+		<a class="logout" href="{% url 'logout' %}"> <span>Logout</span></a>
+    <a href="#" class="nav-trigger"><span></span></a>
+</div>
+<div class="side-nav">
+    <div class="logo">
+        <i class="fa fa-tachometer"></i>
+        <span>Hungers Himalayan</span>
+    </div>
+    <nav>
+        <ul>
+            <li>
+                <a href="Home.html">
+                    <span><i class="icofont-home"></i></span>
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="{% url 'usermessages' %}">
+
+                    <span><i class="icofont-ui-message"></i></span>
+                    <span>Messages</span>
+                </a>
+            </li>
+            <li>
+                <a href="{% url 'createmainmenu' %}">
+                    <span><i class="icofont-chart-bar-graph"></i></span>
+                    <span>Add Mainmenu</span>
+                </a>
+            </li>
+            <li>
+                <a href="{% url 'menuitems' %}">
+                    <span><i class="icofont-photobucket"></i></span>
+                    <span>Add MenuItems</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>

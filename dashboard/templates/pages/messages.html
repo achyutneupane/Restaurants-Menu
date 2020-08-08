@@ -1,0 +1,36 @@
+{% extends 'master/dashmaster.html' %}
+{% block content %}
+{% load static %}
+
+<div class="main-content">
+    <div class="title">
+        Message Box
+    </div>
+
+    <div class="menuform">
+        <table class="table table-striped table-dark">
+            <thead>
+            <tr>
+                <th scope="col">Uid</th>
+                <th scope="col">Full Name</th>
+                <th scope="col">Email</th>
+                <th scope="col">Subject</th>
+                <th scope="col">Description</th>
+            </tr>
+            </thead>
+            <tbody>
+            {%for message in messages %}
+            <tr>
+                <th scope="row">{{message.id}}</th>
+                <td>{{message.fullname}}</td>
+                <td>{{message.email}}</td>
+                <td>{{message.subject}}</td>
+                <td>{{message.description}}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+</div>
+{% endblock %}

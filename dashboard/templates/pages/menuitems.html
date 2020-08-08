@@ -1,0 +1,63 @@
+{% extends 'master/dashmaster.html' %}
+{% block content %}
+{% load static %}
+
+<div class="main-content">
+    <div class="title">
+        Add Menu Items
+    </div>
+
+    <div class="menuform">
+        <div class="col-md-6">
+            <form  class="bg-light p-5 contact-form" method="POST" enctype="multipart/form-data">
+                {% csrf_token %}
+
+                <div class="form-group">
+                    {{form}}
+                </div>
+                <div class="form-group">
+                    <input type="submit" name="Submit Blog" class="btn btn-primary py-3 px-5">
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6">
+            <h2>Instructions for adding Menu Items</h2>
+            <li>Title : Don't Repeat if it is already user, like burger is already added, you don't need to add burger</li>
+            <li>Main_menu : Select Valid Menu  </li>
+            <li>Image : Upload Valid Image' </li>
+            <li>Description : Describe your Menu Name </li>
+            <li>Price : $ 2 </li>
+        </div>
+        <div class="col-md-12">
+            <h2>Menu Items Datum</h2>
+            <table class="table table-striped table-dark">
+                <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                     <th scope="col">Main Menu</th>
+                    <th scope="col">Image</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Action</th>
+                </tr>
+                </thead>
+                <tbody>
+                {%for menu in menuitems %}
+                <tr>
+                    <td>{{menu.title}}</td>
+                    <td>{{menu.main_menu}}</td>
+                     <td><img class="listimage" src=" {{menu.image.url}}"></td>
+                    <td>{{menu.description}}</td>
+                      <td>${{menu.price}}</td>
+                    <td>
+                        <a class="btn btn-primary" href="{% url 'updatemenuitems' menu.title%}">Edit</a>
+                        <a class="btn btn-danger" href="{% url 'deleteitems' menu.title%}">Delete</a></td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

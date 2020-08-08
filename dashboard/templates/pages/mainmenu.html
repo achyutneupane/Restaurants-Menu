@@ -1,0 +1,58 @@
+{% extends 'master/dashmaster.html' %}
+{% block content %}
+{% load static %}
+
+<div class="main-content">
+    <div class="title">
+        Add Main Menu
+    </div>
+
+    <div class="menuform">
+       <div class="col-md-6">
+      <form action="createmainmenu" class="bg-light p-5 contact-form" method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+
+                    <div class="form-group">
+                        {{form}}
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" name="Submit Blog" class="btn btn-primary py-3 px-5">
+                    </div>
+                </form>
+       </div>
+        <div class="col-md-6">
+            <h2>Instructions</h2>
+            <li>Name : Don't Repeat if it is already user, like burger is already added, you don't need to add burger</li>
+            <li>Title : Give Special Title ' Buger in Nepal' </li>
+            <li>Description : Describe your Menu Name </li>
+        </div>
+
+        <div class="col-md-12">
+            <h2>Menu Datom</h2>
+            <table class="table table-striped table-dark">
+            <thead>
+            <tr>
+                <th scope="col">Uid</th>
+                <th scope="col">Name</th>
+                <th scope="col">title</th>
+                <th scope="col">Description</th>
+                <th scope="col">Action</th>
+            </tr>
+            </thead>
+            <tbody>
+            {%for menu in mainmenu %}
+            <tr>
+                <th scope="row">{{menu.id}}</th>
+                <td>{{menu.name}}</td>
+                <td>{{menu.title}}</td>
+                <td>{{menu.description}}</td>
+                <td>Edit | Delete </td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

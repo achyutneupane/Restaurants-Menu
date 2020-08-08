@@ -1,0 +1,282 @@
+{% extends 'master/master.html' %}
+{% block content %}
+{% load static %}
+<section class="preloader">
+    <div class="spinner">
+
+        <span class="spinner-rotate"></span>
+
+    </div>
+</section>
+<!-- MENU -->
+<section class="navbar custom-navbar navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <div class="navbar-header">
+            <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon icon-bar"></span>
+                <span class="icon icon-bar"></span>
+                <span class="icon icon-bar"></span>
+            </button>
+
+            <!-- lOGO TEXT HERE -->
+            <a href="{% url 'home' %}" class="navbar-brand">Hungers <span></span> Cafe</a>
+        </div>
+
+        <!-- MENU LINKS -->
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-nav-first">
+                <li><a href="#home" class="smoothScroll">Home</a></li>
+                <li><a href="#about" class="smoothScroll">About</a></li>
+                <li><a href="#team" class="smoothScroll">Chef</a></li>
+                <li><a href="#menu" class="smoothScroll">Menu</a></li>
+                <li><a href="#contact" class="smoothScroll">Contact</a></li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#">Call Now! <i class="fa fa-phone"></i> +977 9843450483 </a></li>
+                <a href="#footer" class="section-btn">Reserve a table</a>
+            </ul>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- HOME -->
+<section id="home" class="slider" data-stellar-background-ratio="0.5">
+    <div class="row">
+
+        <div class="owl-carousel owl-theme">
+            <div class="item item-first">
+                <div class="caption">
+                    <div class="container">
+                        <div class="col-md-8 col-sm-12">
+                            <h3>Eatery Cafe &amp; Restaurant</h3>
+                            <h1>Our mission is to provide an unforgettable experience</h1>
+                            <a href="#team" class="section-btn btn btn-default smoothScroll">Meet our chef</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item item-second">
+                <div class="caption">
+                    <div class="container">
+                        <div class="col-md-8 col-sm-12">
+                            <h3>Your Perfect Breakfast</h3>
+                            <h1>The best dinning quality can be here too!</h1>
+                            <a href="#menu" class="section-btn btn btn-default smoothScroll">Discover menu</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item item-third">
+                <div class="caption">
+                    <div class="container">
+                        <div class="col-md-8 col-sm-12">
+                            <h3>New Restaurant in Town</h3>
+                            <h1>Enjoy our special menus every Sunday and Friday</h1>
+                            <a href="#contact" class="section-btn btn btn-default smoothScroll">Reservation</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- ABOUT -->
+<section id="about" data-stellar-background-ratio="0.5">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-6 col-sm-12">
+                <div class="about-info">
+                    <div class="section-title">
+                        <h4>Read our story</h4>
+                        <h2>We've been Making The Delicious Foods Since 1990</h2>
+                    </div>
+
+                    <div class="wow fadeInUp">
+                        <p>You can enjoy anytime here with delicious food . Please tell
+                            your friends about usYou can enjoy anytime here with delicious food . Please tell
+                            your friends about usYou can enjoy anytime here with delicious food . Please tell
+                            your friends about us.</p>
+                        <p>Sed elementum vel felis sed scelerisque. In arcu diam, sollicitudin eu nibh ac, posuere
+                            tristique magna. You can enjoy anytime here with delicious food . Please tell
+                            your friends about us. Thank you.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-sm-12">
+                <div class="wow fadeInUp about-image" data-wow-delay="0.6s">
+                    <img src="{% static 'assets/images/about-image.jpg' %}" class="img-responsive" alt="">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<!-- TEAM -->
+<section id="team" data-stellar-background-ratio="0.5">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-12 col-sm-12">
+                <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
+                    <h2>Meet our chefs</h2>
+                    <h4>They are nice &amp; friendly</h4>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-4">
+                <div class="team-thumb wow fadeInUp" data-wow-delay="0.2s">
+                    <img src="{% static 'assets/images/team-image1.jpg' %}" class="img-responsive" alt="">
+                    <div class="team-hover">
+                        <div class="team-item">
+                            <h4>Duis vel lacus id magna mattis vehicula</h4>
+                            <ul class="social-icon">
+                                <li><a href="#" class="fa fa-linkedin-square"></a></li>
+                                <li><a href="#" class="fa fa-envelope-o"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-info">
+                    <h3>New Catherine</h3>
+                    <p>Kitchen Officer</p>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-4">
+                <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
+                    <img src="{% static 'assets/images/team-image2.jpg' %}" class="img-responsive" alt="">
+                    <div class="team-hover">
+                        <div class="team-item">
+                            <h4>Cras suscipit neque quis odio feugiat</h4>
+                            <ul class="social-icon">
+                                <li><a href="#" class="fa fa-instagram"></a></li>
+                                <li><a href="#" class="fa fa-flickr"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-info">
+                    <h3>Lindsay Perlen</h3>
+                    <p>Owner &amp; Manager</p>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-4">
+                <div class="team-thumb wow fadeInUp" data-wow-delay="0.6s">
+                    <img src="{% static 'assets/images/team-image3.jpg' %}" class="img-responsive" alt="">
+                    <div class="team-hover">
+                        <div class="team-item">
+                            <h4>Etiam auctor enim tristique faucibus</h4>
+                            <ul class="social-icon">
+                                <li><a href="#" class="fa fa-github"></a></li>
+                                <li><a href="#" class="fa fa-google"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-info">
+                    <h3>Isabella Grace</h3>
+                    <p>Pizza Specialist</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- MENU-->
+<section id="menu" style="background:pink">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-12 col-sm-12">
+                <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
+                    <h2>Our Menus</h2>
+                    <span>We serve the best Quality food </span>
+                </div>
+            </div>
+
+            {% for menu in menus %}
+            <div class="col-md-2 col-sm-6">
+                <div class="menu-thumb">
+                    <div class="card">
+                        <a href="{% url 'menudetail' menu.name%}">
+                            <img src="" class="img-responsive" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title">{{menu.title}}</h5>
+                                <div class="menu-price">
+                                    <span></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+
+
+        </div>
+    </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" data-stellar-background-ratio="0.5">
+    <div class="container">
+        <div class="row">
+            <!-- How to change your own map point
+                    1. Go to Google Maps
+                    2. Click on your location point
+                    3. Click "Share" and choose "Embed map" tab
+                    4. Copy only URL and paste it within the src="" field below
+            -->
+            <div class="wow fadeInUp col-md-6 col-sm-12" data-wow-delay="0.4s">
+                <div id="google-map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.154281444947!2d85.31784471426924!3d27.74338698277693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19ffbf34b909%3A0xaba2e17c0dd764d5!2sColzlife!5e0!3m2!1sen!2snp!4v1596883474917!5m2!1sen!2snp""
+                            allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-sm-12">
+
+                <div class="col-md-12 col-sm-12">
+                    <div class="section-title">
+                        <h2>Contact Us</h2>
+                    </div>
+                </div>
+
+                <!-- CONTACT FORM -->
+                <form action="#" method="post" class="wow fadeInUp" id="contact-form" role="form" data-wow-delay="0.8s">
+                    {% csrf_token %}
+                    <div class="col-md-6 col-sm-6">
+                        {{form.fullname}}
+                    </div>
+
+                    <div class="col-md-6 col-sm-6">
+                       {{form.email}}
+                    </div>
+
+                    <div class="col-md-12 col-sm-12">
+                      {{form.subject}}
+                        {{form.description}}
+
+                        <button type="submit" class="form-control" id="cf-submit" name="submit">Send Message</button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+{% endblock %}

@@ -1,0 +1,42 @@
+{% extends 'master/dashmaster.html' %}
+{% block content %}
+{% load static %}
+
+<div class="main-content">
+    {% if user.is_authenticated %}
+    <div class="title">
+        You are logged in Logged In as {{user.username}}
+    </div>
+    {% else %}
+    <div class="title">
+        Login Form
+    </div>
+
+    <div class="menuform">
+        <div class="col-md-6">
+            <form class="user" method="POST">
+                {% csrf_token %}
+                <div class="form-group">
+                    <input type="text" class="form-control form-control-user" name="username" id="exampleInputEmail"
+                           aria-describedby="emailHelp" placeholder="Enter Username...">
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control form-control-user" name="password"
+                           id="exampleInputPassword" placeholder="Password">
+                </div>
+                <div class="form-group">
+                    <div class="custom-control custom-checkbox small">
+                        {%for message in messages %}
+                        <p style="color:red">{{message}}</p>
+                        {% endfor %}
+                    </div>
+                </div>
+                <input type="submit" value="Sign In" name="signin" class="btn btn-primary btn-user btn-block">
+                </a>
+                <hr>
+            </form>
+        </div>
+    </div>
+{% endif %}
+</div>
+{% endblock %}
