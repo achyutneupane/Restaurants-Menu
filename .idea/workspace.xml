@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="317609a7-25bf-413d-9146-1e3082d6ebf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../devlopment/.idea/devlopment.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../.idea/python.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Old projects/TweetME-master/.idea/TweetME-master.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Old projects/django-ecommerce-master/.idea/django-ecommerce-master.iml" afterDir="false" />
@@ -218,140 +217,7 @@
       <change afterPath="$PROJECT_DIR$/../../blogsite/posts/tests.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../blogsite/posts/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../blogsite/posts/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/migrations/0002_menuitems_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/migrations/0003_menuitems_price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/migrations/0004_remove_mainmenu_quotes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/migrations/0005_auto_20200807_1523.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu/templates/pages/menulist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Chicken_Momos_Recipe_Delicious_Steamed_Chicken_Dumplings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Crispy-Chicken-Burger-with-Cabbage-Cucumber-Slaw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Double_Tender_crisps.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Double_Trouble_Burger_without_Bun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/crispy-fried-chicken-burger-50388014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RestfulApi/myproject/.idea/myproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backup/nepaliquotes/.idea/nepaliquotes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecommerce/.idea/ecommerce.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fetch/.idea/fetch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myapp/.idea/myapp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/.idea/nepalistatusv2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/resetpassword.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/static/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/layout/footercopyright.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/layout/logout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/master/accountmaster.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/quotes/write-article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/best-smartphones-2018-front-closeup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault_dw5IMAy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault_hRrD3cR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault_mYyrec4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/news/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/top-header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/top-news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/master/master.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/pages/details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_loading@2x.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_sprite@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/slider_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/slider_prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/socials.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/status.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/jquery.fancybox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/li-scroller.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/OpenSans-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/Oswald-Regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/Varela-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/add_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/addbanner_728x90_V1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/featured_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/featured_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/featured_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/news_thumbnail2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/news_thumbnail3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/photograph_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/photograph_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/photograph_img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/post_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/post_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/single_post_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/html5shiv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.fancybox.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.li-scroller.1.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.newsTicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume original/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume original/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume original/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume original/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume original/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume original/.idea/resume original.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume original/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume original/resume_builder/.idea/resume_builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume/.idea/resume.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/.idea/resume_builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/account/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/account/templates/pages/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/account/templates/pages/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/account/templates/pages/resetpassword.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/account/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/general.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/static/assets/css/resumestyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/static/assets/js/formset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/form/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/form/testform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/footercopyright.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/master/accountmaster.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/master/master.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/pages/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/resumes/resume1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todoapi/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../devlopment/.idea/devlopment.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../meroblog backup/meroblog mysql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../meroblog backup/meroblog sqllite.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../meroblog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -605,45 +471,179 @@
       <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/pages/quotes/post.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/templates/pages/quotes/profile.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../nepaliquotes/nepaliquotes/quotes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/0002_menuitems_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/0003_menuitems_price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/0004_remove_mainmenu_quotes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/0005_auto_20200807_1523.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/templates/pages/menulist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Chicken_Momos_Recipe_Delicious_Steamed_Chicken_Dumplings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Crispy-Chicken-Burger-with-Cabbage-Cucumber-Slaw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Double_Tender_crisps.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/Double_Trouble_Burger_without_Bun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pictures/crispy-fried-chicken-burger-50388014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestfulApi/myproject/.idea/myproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backup/nepaliquotes/.idea/nepaliquotes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce/.idea/ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fetch/.idea/fetch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapp/.idea/myapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/.idea/nepalistatusv2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/templates/pages/resetpassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/layout/footercopyright.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/layout/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/master/accountmaster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/templates/quotes/write-article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nepalistatusv2/quotes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/best-smartphones-2018-front-closeup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault_dw5IMAy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault_hRrD3cR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/media/news/maxresdefault_mYyrec4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/top-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/layout/top-news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/master/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/news/templates/pages/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_loading@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/fancybox_sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/slider_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/slider_prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/socials.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/images/status.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/li-scroller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/OpenSans-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/Oswald-Regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/Varela-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/add_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/addbanner_728x90_V1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/featured_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/featured_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/featured_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/news_thumbnail2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/news_thumbnail3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/photograph_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/photograph_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/photograph_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/post_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/post_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/single_post_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/images/slider_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.fancybox.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.li-scroller.1.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/jquery.newsTicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsportal/static/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/resume original.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume original/resume_builder/.idea/resume_builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume/.idea/resume.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/.idea/resume_builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/templates/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/templates/pages/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/templates/pages/resetpassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/general.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/static/assets/css/resumestyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/static/assets/js/formset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/form/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/form/testform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/footercopyright.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/layout/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/master/accountmaster.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/master/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/pages/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/templates/resumes/resume1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume_builder/resume/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todoapi/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/android/.idea/react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resume/.idea/resume.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../resume/resumee/static/assets/img/template/cv2.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../resume/resumee/static/assets/img/template/cv3.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../resume/resumee/static/assets/img/template/cv4.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../resume_builder/.idea/resume_builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../react/android/.idea/react.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../resume/.idea/resume.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/resume_builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/account/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/dashboard/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/templates/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../seven sem/python_project/resume_builder/main/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../tutorial1/.idea/tutorial1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/.idea/resume_builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/account/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/account/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/account/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/account/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/account/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/account/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/dashboard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/dashboard/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/dashboard/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/dashboard/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/dashboard/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/dashboard/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/dashboard/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/dashboard/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/main/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seven sem/python_project/resume_builder/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tutorial1/.idea/tutorial1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../resume.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../resume/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../resume/.idea/resume.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/.idea/resume.iml" afterDir="false" />
@@ -652,7 +652,7 @@
       <change beforePath="$PROJECT_DIR$/../../resume/resumee/static/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/resumee/static/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../resume/resumee/templates/layout/dashboardheader.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume/resumee/templates/layout/dashboardheader.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../resume_builder/resume/templates/pages/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../resume_builder/resume/templates/pages/home/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../tutorial1/tutorial1/readme" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tutorial1/tutorial1/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial1/tutorial1/readme" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorial1/tutorial1/readme" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -680,7 +680,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nepaliquotes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
